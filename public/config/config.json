@@ -1,0 +1,18 @@
+{
+"CONTRACT_ADDRESS" : "0x41a36Df2e3c7dd2767E5253E0477D28C9f45DBca",
+  "SCAN_LINK": "https://testnet.bscscan.com/address/0x41a36Df2e3c7dd2767E5253E0477D28C9f45DBca",
+  "NETWORK": {
+    "NAME": "Binance",
+    "SYMBOL": "BNB",
+    "ID": 97
+  },
+  "NFT_NAME": "Malverse NFT",
+  "SYMBOL": "Malverse NFT",
+  "MAX_SUPPLY": 992,
+  "WEI_COST": 100000000000000000,
+  "DISPLAY_COST": 0.1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/the-stripes-nft",
+  "SHOW_BACKGROUND": true
+}
